@@ -126,8 +126,8 @@ global.hsquere = '⛶', '❏', '⫹⫺'
 global.l = '「'
 global.r = '」'
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = 'Irfaan Official'
+global.author = 'Sad-Bot'
 
 global.multiplier = 69 // The higher, The harder levelup
 
