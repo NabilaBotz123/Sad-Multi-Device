@@ -10,7 +10,7 @@ global.owner = [
   ['+84 34 979 0091'],
   ['+62 818-0545-0249'],
   ['+62 831-4339-37633', 'Letta', true],
-  ['17608914335', 'Irfaan Official', true],
+  ['6281646829895', 'Irfaan Official', true],
   ['+62 895-3170-4997', 'Bot', true],
   ['+84 34 979 0091', 'Johannes', true],
   ['+62 818-0545-0249', 'Krisna', true],
